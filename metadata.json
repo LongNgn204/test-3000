@@ -1,0 +1,7 @@
+{
+  "name": "Học Tiếng Anh Cùng AI",
+  "description": "Nền tảng học tiếng Anh toàn diện với sự trợ giúp của AI, theo lộ trình CEFR. Luyện tập đủ 4 kỹ năng Nghe - Nói - Đọc - Viết.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
